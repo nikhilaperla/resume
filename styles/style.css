@@ -38,3 +38,32 @@ img{
   box-shadow: 2px 2px 2px black;
   border: 2px solid #AF7AC5;
 }
+/*mobile view*/
+@media screen and (min-width:320px) and (max-width:480px){
+  .mainDiv,.main{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .card{
+    width: 90%;
+  }
+  .leftDiv{
+    width: 90%;
+  }
+  .rightDiv{
+    width: 90%;
+  }
+}
+/*tab view*/
+@media screen and (min-width:320px) and (max-width:480px){
+  .mainDiv{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card{
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
