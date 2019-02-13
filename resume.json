@@ -1,0 +1,35 @@
+{
+  "profile":{
+    "name":"Nikhila",
+    "image":"image/profile.png",
+    "branch":"cse",
+    "mobilenumber":"9553620192",
+    "gmail":"nikhiaperla.05@gmail.com",
+    "careerobject":"To enhance my educational and professional skills in a stable and dynamic workplace."
+  },
+    "EducationInformation":[
+      {
+        "degree":"B.TECH",
+        "college": "QIS",
+        "branch": "CSE",
+        "marks": "99%"
+      },
+      {
+        "degree":"INTERMEDIATE",
+        "college": "NARAYANA",
+        "branch": "MPC",
+        "marks": "95%"
+      },
+      {
+        "degree":"SCHOOL",
+        "college": "QIS",
+        "branch": "SSC",
+        "marks": "99%"
+      }
+    ],
+    "Skills":{
+      "os":"windows 7,windows 8.1,xp",
+      "ps":"java,c++,phython"
+    }
+
+}

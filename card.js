@@ -36,6 +36,10 @@ function pro(Pro){
   var h3=document.createElement("h3");
   h3.textContent=Pro[i].gmail;
   card.appendChild(h3);
+  var a=document.createElement("a");
+  a.textContent="View Resume";
+  a.href="resumes.html";
+  card.appendChild(a);
 }
 }
 })();
